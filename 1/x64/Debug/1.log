@@ -1,0 +1,5 @@
+﻿  test.c
+D:\code\题目\1\test.c(7,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\code\题目\1\test.c(7,9): message : 占位符和其参数预计 3 可变参数，但提供的却是 0 参数
+D:\code\题目\1\test.c(7,9): message : 缺失的可变参数 1 为格式字符串“%.2f”所需
+  1.vcxproj -> D:\code\题目\1\x64\Debug\1.exe
